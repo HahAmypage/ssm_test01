@@ -16,6 +16,7 @@
   </modules>
 
   <properties>
+    <!--测试产生冲突-->
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       <spring-version>5.0.2.RELEASE</spring-version>
       <spring-aspectj>1.8.9</spring-aspectj>
